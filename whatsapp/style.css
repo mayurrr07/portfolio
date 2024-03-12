@@ -1,0 +1,111 @@
+#sidebar {
+    height: 100%;
+    width: 500px;
+    background-color: white;
+    position: fixed;
+    border: 1px solid black;
+    overflow: scroll;
+    
+
+   
+}
+
+#mee img {
+    height: 25px;
+    width: 30px;
+    padding: 10px;
+}
+
+#see img {
+    height: 25px;
+    width: 30px;
+    padding: 10px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+   
+    
+
+}
+
+#jii img {
+    height: 25px;
+    width: 30px;
+    padding: 5px;
+    background-color: rgba(245, 245, 245 );
+
+
+
+}
+
+#jii {
+    margin: 10px;
+}
+
+#myy {
+    display: flex;
+    background-color: rgba(245, 245, 245 );
+    border-bottom: 1px solid black;
+    
+    height: 60px;
+
+}
+
+#byy {
+    margin-top: 11px;
+    padding-right: 5px;
+}
+
+input {
+    width: 390px;
+    height: 33px;
+    border: none;
+    background-color: rgba(245, 245, 245);
+    color: black;
+
+
+}
+
+#wow img {
+    height: 25px;
+    width: 30px;
+    margin-top: 18px;
+
+}
+
+#chat {
+    display: flex;
+    border-bottom: 2px solid rgba(211, 208, 208 );
+
+}
+
+#chat1 img {
+    height: 35px;
+    width: 40px;
+    padding: 15px;
+
+}
+#fix{
+    position: fixed;
+}
+#he img{
+    width:50px;
+    height:50px;
+    margin-left: 10px;
+}
+#he{
+    margin-left: 500px;
+    display: flex;
+}
+h3{
+    margin-left: 5px;
+}
+   
+
+
+
+
+
